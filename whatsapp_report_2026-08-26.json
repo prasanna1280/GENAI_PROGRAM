@@ -1,0 +1,42 @@
+{
+  "assignment": "CAIE Architect Program - Assignment 2",
+  "title": "WhatsApp Message Sender + Smart Data Extractor",
+  "run_date": "2026-08-26",
+  "started_at": "2026-08-26T23:32:57",
+  "finished_at": "2026-08-26T23:35:07",
+  "input_file": "contacts.xlsx",
+  "total_contacts": 2,
+  "processed_contacts": 2,
+  "sent_count": 2,
+  "failed_count": 0,
+  "results": [
+    {
+      "name": "Prasanna",
+      "phone": "+919916359403",
+      "message": "Hello Prasanna, this is a test message.",
+      "sent": true,
+      "screenshot": "screenshots\\Prasanna_20260826_233427.png",
+      "last_3_messages": [
+        "Hello Prasanna, this is a test message.",
+        "hi",
+        "Hello Prasanna, this is a test message."
+      ],
+      "error": "",
+      "processed_at": "2026-08-26T23:34:01"
+    },
+    {
+      "name": "Yazhini",
+      "phone": "918838441910",
+      "message": "Hello Yazhini, this is a test message.",
+      "sent": true,
+      "screenshot": "screenshots\\Yazhini_20260826_233504.png",
+      "last_3_messages": [
+        "Hello Prasanna, this is a test message.",
+        "Hi",
+        "Hello Yazhini, this is a test message."
+      ],
+      "error": "",
+      "processed_at": "2026-08-26T23:34:35"
+    }
+  ]
+}
